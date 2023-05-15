@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="online-retail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/online_retail_jar</output-path>
+    <root id="archive" name="online-retail.jar">
+      <element id="module-output" name="online-retail" />
+    </root>
+  </artifact>
+</component>
