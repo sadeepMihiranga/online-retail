@@ -1,3 +1,8 @@
+package lk.sadeep.iit.retail;
+
+import lk.sadeep.iit.retail.core.Item;
+import lk.sadeep.iit.retail.core.MainMenu;
+
 import java.io.IOException;
 import java.math.BigDecimal;
 
@@ -16,7 +21,7 @@ public class Main {
             @Override
             public void run() {
                 try {
-                    new MainMenu().showMainMenu();
+                    new lk.sadeep.iit.retail.core.MainMenu().showMainMenu();
                 } catch (IOException ex) {}
             }
         });

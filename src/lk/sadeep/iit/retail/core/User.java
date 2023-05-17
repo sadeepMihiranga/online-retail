@@ -1,3 +1,7 @@
+package lk.sadeep.iit.retail.core;
+
+import lk.sadeep.iit.retail.core.constants.UserType;
+
 import java.util.*;
 
 public class User {

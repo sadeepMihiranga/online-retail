@@ -1,3 +1,5 @@
+package lk.sadeep.iit.retail.core;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

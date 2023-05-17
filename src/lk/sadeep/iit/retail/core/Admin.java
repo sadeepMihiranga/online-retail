@@ -1,3 +1,7 @@
+package lk.sadeep.iit.retail.core;
+
+import lk.sadeep.iit.retail.core.constants.UserType;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
