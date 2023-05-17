@@ -3,7 +3,7 @@ import java.math.BigDecimal;
 
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         /** insert some item when starting the application */
         insertItems();
