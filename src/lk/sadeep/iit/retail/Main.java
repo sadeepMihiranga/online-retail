@@ -16,18 +16,6 @@ public class Main {
         try {
             new MainMenu().showMainMenu();
         } catch (IOException ex) {}
-
-        /*Thread mainMenuThread = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try {
-                    new lk.sadeep.iit.retail.core.MainMenu().showMainMenu();
-                } catch (IOException ex) {}
-            }
-        });
-
-        mainMenuThread.start();
-        mainMenuThread.join();*/
     }
 
     private static void insertItems() {
