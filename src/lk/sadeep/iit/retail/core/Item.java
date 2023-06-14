@@ -43,7 +43,6 @@ public class Item {
     }
 
     private static final Object itemStoreLock = new Object();
-    private static final Object cartLock = new Object();
 
     public void showManageItemMenu(UserType userType) throws IOException {
 
